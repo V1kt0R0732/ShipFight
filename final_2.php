@@ -94,7 +94,7 @@ echo "<h4>Таблиця лідерів:</h4>";
     }
     echo "</table>";
 
-echo "<b><a href='ShipFight3.0.php'>З початку</a></b>";
+echo "<b><a href='index.php'>З початку</a></b>";
 
 
 $_SESSION['ship_loc'] = [];

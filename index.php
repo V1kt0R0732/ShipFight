@@ -20,7 +20,7 @@ $db = new PDO("mysql:hostname=localhost;dbname=ShipFight",'root','');
 
 if (!isset($_POST['send'])){
     ?>
-    <form method="post" action="ShipFight3.0.php">
+    <form method="post" action="index.php">
         <h2>Введіть свій NickName:</h2>
         <input type="text" name="player" placeholder="Nick Name">
         <input type="submit" name="send" value="Почати Гру">
