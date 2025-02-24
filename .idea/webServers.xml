@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2c660817-5716-42e8-9587-f51cb1399ddf" name="ShipFight" url="http://ShipFight">
+        <fileTransfer mountedRoot="C:\OSPanel\domains\ShipFight" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
